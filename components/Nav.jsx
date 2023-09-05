@@ -6,7 +6,7 @@ const Nav = () => {
     <nav className="flex my-6 mx-10 justify-between items-center">
         <Link href="/" className="flex gap-3 items-center">
           <Image 
-            src="/icons/logoCleanzy.svg"
+            src="./icons/logoCleanzy.svg"
             alt="Cleanzy Logo"
             width={30}
             height={30}
