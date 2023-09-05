@@ -47,7 +47,7 @@ const Hero = () => {
           mx-auto font-bold leading-snug'
         >Cleanzy te devuelve el tiempo para lo que realmente importa</h1>
 
-        <img src="./images/imagenHero-removebg.png" alt='Hero Image' 
+        <img src="/images/imagenHero-removebg.png" alt='Hero Image' 
           className='w-full' 
         />
 
